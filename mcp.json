@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-pwntools": {
+      "command": "mcp-pwntools",
+      "env": {}
+    }
+  }
+}
