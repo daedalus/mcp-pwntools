@@ -3,7 +3,7 @@
 MCP server exposing pwntools 4.15.0 functionality for binary exploitation tasks.
 
 [![PyPI](https://img.shields.io/pypi/v/mcp-pwntools.svg)](https://pypi.org/project/mcp-pwntools/)
-[![Python](https://img.shields.io/pypi/pyversions/mcp-pwntools.svg)](https://pypi.org/project/mcp-pwntools/)
+[![Python](https://img.shields.io/pypi/pyversions/mcp-pwntools.svg)](https://pypi.org/project/mcp-pwntools/)[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/daedalus/mcp-pwntools)
 
 ## Install
 
